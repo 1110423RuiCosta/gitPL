@@ -1,6 +1,3 @@
 Controlo de versões
-<<<<<<< HEAD
-=======
-Git
 OpenUP
->>>>>>> 417d596c7bbb1888e13f1a6f40d5506803e89917
+
